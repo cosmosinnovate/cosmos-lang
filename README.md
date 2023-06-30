@@ -1,0 +1,2 @@
+# cosmos-lang
+Simple intepreter
